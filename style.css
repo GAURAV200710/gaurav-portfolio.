@@ -718,3 +718,9 @@ a:focus-visible {
         transition-duration: 0.01ms !important;
     }
 }
+.profile-photo {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+object-fit: cover;
+}
